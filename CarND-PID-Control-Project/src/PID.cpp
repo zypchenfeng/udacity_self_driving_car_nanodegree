@@ -17,7 +17,7 @@ void PID::Init(double Kp_, double Ki_, double Kd_) {
 
 void PID::UpdateError(double cte) {
   /**
-   * TODO: Update PID errors based on cte.
+   * TODO: Update PID errors based on .
    */
 
 }
