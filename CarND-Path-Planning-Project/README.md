@@ -1,6 +1,11 @@
 # CarND-Path-Planning-Project
+* Model Documentation is in `Model_Documentation.md`
+* cpp implementation is in `src` folder
+
+
+
 Self-Driving Car Engineer Nanodegree Program
-   
+
 ### Simulator.
 You can download the Term3 Simulator which contains the Path Planning Project from the [releases tab (https://github.com/udacity/self-driving-car-sim/releases/tag/T3_v1.2).  
 
@@ -74,6 +79,7 @@ A really helpful resource for doing this project and creating smooth trajectorie
 ## Dependencies
 
 * cmake >= 3.5
+  
   * All OSes: [click here for installation instructions](https://cmake.org/install/)
 * make >= 4.1
   * Linux: make is installed by default on most Linux distros
