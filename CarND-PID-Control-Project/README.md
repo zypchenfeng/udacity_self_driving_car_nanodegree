@@ -3,6 +3,12 @@ Self-Driving Car Engineer Nanodegree Program
 
 ---
 
+* Write up named reflection.md is located in the root folder.
+* `twiddle.ipynb` is used for finding the parameters which is located in 'files'
+* src directory has the implementation of the PID controller.
+
+
+
 ## Dependencies
 
 * cmake >= 3.5
